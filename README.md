@@ -1,3 +1,2 @@
 # sfapi
-Automatically exported from code.google.com/p/sfapi
- 
+Selenium-Flex API - Automation for Adobe Flex applications
